@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "FC68131")(type "KiCad")(uri "${KIPRJMOD}/FC68131.kicad_sym")(options "")(descr ""))
+  (lib (name "7301SYZQE")(type "KiCad")(uri "${KIPRJMOD}/7301SYZQE.kicad_sym")(options "")(descr ""))
 )
