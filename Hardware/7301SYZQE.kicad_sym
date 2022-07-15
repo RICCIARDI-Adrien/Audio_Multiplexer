@@ -6,7 +6,7 @@
     (property "Value" "7301SYZQE" (id 1) (at 0 -16.51 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 10.16 0)
+    (property "Footprint" "7301SYZQE:7301SYZQE" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 0 0 0)
